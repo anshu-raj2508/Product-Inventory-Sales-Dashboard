@@ -1,0 +1,7 @@
+product_id,name,category,price,quantity
+P101,Laptop,Electronics,75000.0,20
+P102,Mouse,Accessories,800.0,10
+P103,Keyboard,Accessories,1500.0,20
+P104,Monitor,Electronics,12000.0,5
+P105,Office Chair,Furniture,2000.0,24
+P106,Pendrive,Accessories,500.0,80
